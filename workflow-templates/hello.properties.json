@@ -1,0 +1,9 @@
+{
+  "name": "Hello Workflow",
+  "description": "Says hello",
+  "iconName": "octicon smiley",
+  "categories": [
+    "deployment",
+    "Pages"
+  ]
+}

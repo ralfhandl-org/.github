@@ -5,5 +5,8 @@
   "categories": [
     "deployment",
     "Pages"
+  ],
+  "filePatterns": [
+    "^README.md$"
   ]
 }

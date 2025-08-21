@@ -9,4 +9,4 @@ jobs:
       - name: say hello
         shell: bash
         run: |
-          echo "Hello"
+          echo "Hello there!"

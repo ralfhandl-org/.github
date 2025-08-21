@@ -5,6 +5,7 @@ on:
 
 jobs:
   greet:
+    runs-on: ubuntu-latest
     steps:
       - name: say hello
         shell: bash
